@@ -1,0 +1,13 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: 'local_package',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': '../../.nvm/versions/node/v14.17.0/bin/lerna',
+0 silly argv   pkg: 'npm_pacakge'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath /home/phantom0z/Desktop/doar-react
+3 info versioning independent
+4 error Error: 404 Not Found - GET https://registry.npmjs.org/npm_pacakge - Not found
+4 error     at /home/phantom0z/Desktop/doar-react/node_modules/@evocateur/npm-registry-fetch/check-response.js:104:15
